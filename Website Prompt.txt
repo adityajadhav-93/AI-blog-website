@@ -1,0 +1,14 @@
+Build a complete, modern, fully responsive AI News & Technology Blog Website. Create all required project files and implement everything end-to-end, not just a UI mockup.
+
+Requirements:
+
+UI/UX: Premium, futuristic design with a clean layout, dark/light mode, modern typography, gradients, smooth animations, hover effects, micro-interactions, and responsive mobile design.
+Pages: Home, latest AI news, trending stories, categories, article details, search results, About, and Contact.
+Features: Search, category filters, interactive news cards, bookmarks, newsletter subscription UI, social sharing, related articles, pagination, and readable article pages.
+AI News: Display AI-generated sample articles initially and integrate a real news API if an API key is available. Never fabricate real-time news or claim mock data is live news.
+Animations: Use Framer Motion or an equivalent library for smooth page transitions, scroll reveals, loading skeletons, and interactive elements without compromising performance.
+Technical: Use a suitable modern stack (prefer React + TypeScript + Vite + Tailwind CSS). Implement reusable components, clean architecture, proper routing, accessibility, SEO metadata, and error/loading/empty states.
+Backend & data: Add a suitable backend or database if needed. Store bookmarks and preferences persistently where practical. Use environment variables for API keys and create a .env.example file.
+Testing: Install dependencies, run the application on a local development server, inspect it in a browser if browser tools are available, test all routes and interactive features, run lint/build checks, fix errors, and verify mobile responsiveness.
+Deliverables: Create all source files, configuration files, README with setup instructions, and any required assets. Start the server and provide the local URL. Report completed features, tests performed, API configuration needed, and any remaining issues.
+Work autonomously: Make sensible design and technical decisions, implement the actual working website, and keep testing and fixing issues until the production build succeeds. Do not stop after generating code or explaining the plan.
